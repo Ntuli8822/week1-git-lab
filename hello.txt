@@ -1,2 +1,2 @@
 "Hello, Software Maintenance!" 
-"Welcome to CSC 4631." 
+"Welcome to CSC 4631" 
